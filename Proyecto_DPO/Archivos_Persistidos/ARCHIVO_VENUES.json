@@ -1,0 +1,17 @@
+{
+  "venues": {
+    "ACTIVO": {
+      "1": {
+        "tipoVenue": "Bar",
+        "latitud": 1234,
+        "longitud": 5678,
+        "capacidadMaxima": 150,
+        "restriccionesUso": "No fumar",
+        "nombreVenue": "DPOClub2",
+        "idVenue": 1,
+        "estado": "ACTIVO",
+        "disponible": false
+      }
+    }
+  }
+}

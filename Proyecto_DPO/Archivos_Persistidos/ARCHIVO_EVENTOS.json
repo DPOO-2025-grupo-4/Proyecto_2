@@ -1,0 +1,278 @@
+{
+  "eventos": {
+    "ACTIVO": {},
+    "CANCELADO": {
+      "3": {
+        "tipoEvento": "Prueba24",
+        "idEvento": 3,
+        "fechaEvento": "2025/12/24",
+        "venueAsociado": {
+          "tipoVenue": "Bar",
+          "latitud": 1234,
+          "longitud": 5678,
+          "capacidadMaxima": 150,
+          "restriccionesUso": "No fumar",
+          "nombreVenue": "DPOClub2",
+          "idVenue": 1,
+          "estado": "ACTIVO",
+          "disponible": false
+        },
+        "capacidadEvento": 20,
+        "capacidadActualLocalidades": 20,
+        "localidades": {
+          "1": {
+            "idLocalidad": 1,
+            "precio": 10000.0,
+            "caracteristicas": "Zona general",
+            "esNumerada": true,
+            "disponible": true,
+            "vendidos": 1,
+            "disponibles": {
+              "T-11": {
+                "reembolsado": false,
+                "id": "T-11",
+                "precioBase": 10000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": true,
+                "asiento": "B2",
+                "descuento": 10,
+                "precioTotal": 9000.0,
+                "type": "individual"
+              },
+              "T-12": {
+                "reembolsado": false,
+                "id": "T-12",
+                "precioBase": 10000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": true,
+                "asiento": "B3",
+                "descuento": 10,
+                "precioTotal": 9000.0,
+                "type": "individual"
+              },
+              "T-13": {
+                "reembolsado": false,
+                "id": "T-13",
+                "precioBase": 10000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": true,
+                "asiento": "B4",
+                "descuento": 10,
+                "precioTotal": 9000.0,
+                "type": "individual"
+              },
+              "T-14": {
+                "reembolsado": false,
+                "id": "T-14",
+                "precioBase": 10000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": true,
+                "asiento": "B5",
+                "descuento": 10,
+                "precioTotal": 9000.0,
+                "type": "individual"
+              },
+              "T-15": {
+                "reembolsado": false,
+                "id": "T-15",
+                "precioBase": 10000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": true,
+                "asiento": "B6",
+                "descuento": 10,
+                "precioTotal": 9000.0,
+                "type": "individual"
+              },
+              "T-16": {
+                "reembolsado": false,
+                "id": "T-16",
+                "precioBase": 10000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": true,
+                "asiento": "B7",
+                "descuento": 10,
+                "precioTotal": 9000.0,
+                "type": "individual"
+              },
+              "T-17": {
+                "reembolsado": false,
+                "id": "T-17",
+                "precioBase": 10000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": true,
+                "asiento": "B8",
+                "descuento": 10,
+                "precioTotal": 9000.0,
+                "type": "individual"
+              },
+              "T-18": {
+                "reembolsado": false,
+                "id": "T-18",
+                "precioBase": 10000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": true,
+                "asiento": "B9",
+                "descuento": 10,
+                "precioTotal": 9000.0,
+                "type": "individual"
+              },
+              "T-19": {
+                "reembolsado": false,
+                "id": "T-19",
+                "precioBase": 10000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": true,
+                "asiento": "C1",
+                "descuento": 10,
+                "precioTotal": 9000.0,
+                "type": "individual"
+              },
+              "T-20": {
+                "reembolsado": false,
+                "id": "T-20",
+                "precioBase": 10000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": true,
+                "asiento": "C2",
+                "descuento": 10,
+                "precioTotal": 9000.0,
+                "type": "individual"
+              },
+              "T-5": {
+                "reembolsado": false,
+                "id": "T-5",
+                "precioBase": 10000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": true,
+                "asiento": "A5",
+                "descuento": 10,
+                "precioTotal": 9000.0,
+                "type": "individual"
+              },
+              "T-6": {
+                "reembolsado": false,
+                "id": "T-6",
+                "precioBase": 10000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": true,
+                "asiento": "A6",
+                "descuento": 10,
+                "precioTotal": 9000.0,
+                "type": "individual"
+              },
+              "T-7": {
+                "reembolsado": false,
+                "id": "T-7",
+                "precioBase": 10000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": true,
+                "asiento": "A7",
+                "descuento": 10,
+                "precioTotal": 9000.0,
+                "type": "individual"
+              },
+              "T-8": {
+                "reembolsado": false,
+                "id": "T-8",
+                "precioBase": 10000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": true,
+                "asiento": "A8",
+                "descuento": 10,
+                "precioTotal": 9000.0,
+                "type": "individual"
+              },
+              "T-9": {
+                "reembolsado": false,
+                "id": "T-9",
+                "precioBase": 10000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": true,
+                "asiento": "A9",
+                "descuento": 10,
+                "precioTotal": 9000.0,
+                "type": "individual"
+              },
+              "TM-1": {
+                "descripcionBeneficios": "Descuentos en otros eventos",
+                "id": "TM-1",
+                "precioBase": 200000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": false,
+                "descuento": 10,
+                "precioTotal": 180000.0,
+                "type": "paqueteDeluxe"
+              }
+            },
+            "ocupados": {
+              "T-10": {
+                "reembolsado": false,
+                "id": "T-10",
+                "precioBase": 10000.0,
+                "porcentajeServicio": 0.0,
+                "cobroEmision": 0.0,
+                "transferible": true,
+                "asiento": "B1",
+                "descuento": 0,
+                "precioTotal": 0.0,
+                "type": "individual"
+              }
+            },
+            "numAsiento": 3,
+            "fila": "C",
+            "capacidad": 20,
+            "oferta": {
+              "fechaInicio": "2025/10/10",
+              "fechaFin": "2025/11/10",
+              "porcentajeDescuento": 10,
+              "esActiva": true
+            }
+          }
+        },
+        "promotorEvento": {
+          "reputacion": 0,
+          "nit": "12",
+          "tiquetes": [
+            {
+              "descripcionBeneficios": "Descuentos en otros eventos",
+              "id": "TM-1",
+              "precioBase": 200000.0,
+              "porcentajeServicio": 0.0,
+              "cobroEmision": 0.0,
+              "transferible": false,
+              "descuento": 0,
+              "precioTotal": 0.0,
+              "type": "paqueteDeluxe"
+            }
+          ],
+          "id": 3,
+          "nombre": "JohanProm",
+          "email": "jsantanilla@",
+          "login": "jsantanilla3",
+          "password": "Prueba14",
+          "saldo": 0.0,
+          "fechaRegistro": "2025-11-18T19:32:45.858864800",
+          "rol": "PROMOTOR"
+        },
+        "idLocalidad": 2,
+        "estado": "CANCELADO"
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "administradores": {
+    "jsantanilla": {
+      "id": 1,
+      "nombre": "Johan ",
+      "email": "jsantanilla@",
+      "login": "jsantanilla",
+      "password": "Prueba9",
+      "saldo": 0.0,
+      "fechaRegistro": "2025-11-16T20:19:42.903981200",
+      "rol": "ADMINISTRADOR"
+    },
+    "jsantanilla2": {
+      "id": 3,
+      "nombre": "Johan2",
+      "email": "jsantanilla@",
+      "login": "jsantanilla2",
+      "password": "prueba10",
+      "saldo": 0.0,
+      "fechaRegistro": "2025-11-16T20:27:16.624648500",
+      "rol": "ADMINISTRADOR"
+    }
+  },
+  "promotores": {
+    "jsantanilla3": {
+      "reputacion": 0,
+      "nit": "12",
+      "tiquetes": [],
+      "id": 3,
+      "nombre": "JohanProm",
+      "email": "jsantanilla@",
+      "login": "jsantanilla3",
+      "password": "Prueba14",
+      "saldo": 0.0,
+      "fechaRegistro": "2025-11-18T19:32:45.858864800",
+      "rol": "PROMOTOR"
+    },
+    "jsantanilla5": {
+      "reputacion": 10,
+      "nit": "12",
+      "tiquetes": [],
+      "id": 2,
+      "nombre": "JohanPruebaids",
+      "email": "jsantanilla@",
+      "login": "jsantanilla5",
+      "password": "prueba18",
+      "saldo": 0.0,
+      "fechaRegistro": "2025-11-18T20:49:53.524266500",
+      "rol": "PROMOTOR"
+    },
+    "jsantanilla6": {
+      "reputacion": 10,
+      "nit": "12",
+      "tiquetes": [],
+      "id": 3,
+      "nombre": "PruebaId2",
+      "email": "jsantanilla@",
+      "login": "jsantanilla6",
+      "password": "Prueba18",
+      "saldo": 0.0,
+      "fechaRegistro": "2025-11-18T20:50:48.570924200",
+      "rol": "PROMOTOR"
+    },
+    "jsantanilla8": {
+      "reputacion": 10,
+      "nit": "12",
+      "tiquetes": [],
+      "id": 4,
+      "nombre": "PruebaID3",
+      "email": "jsantanilla@",
+      "login": "jsantanilla8",
+      "password": "Prueba18",
+      "saldo": 0.0,
+      "fechaRegistro": "2025-11-18T20:52:11.023249200",
+      "rol": "PROMOTOR"
+    }
+  },
+  "clientes": {}
+}
